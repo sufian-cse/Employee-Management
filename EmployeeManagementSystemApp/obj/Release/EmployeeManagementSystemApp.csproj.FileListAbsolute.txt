@@ -1,0 +1,8 @@
+G:\3rd Semester\Software Development\EmployeeManagementSystemApp\EmployeeManagementSystemApp\bin\Release\EmployeeManagementSystemApp.exe.config
+G:\3rd Semester\Software Development\EmployeeManagementSystemApp\EmployeeManagementSystemApp\bin\Release\EmployeeManagementSystemApp.exe
+G:\3rd Semester\Software Development\EmployeeManagementSystemApp\EmployeeManagementSystemApp\bin\Release\EmployeeManagementSystemApp.pdb
+G:\3rd Semester\Software Development\EmployeeManagementSystemApp\EmployeeManagementSystemApp\obj\Release\EmployeeManagementSystemApp.LoginUI.resources
+G:\3rd Semester\Software Development\EmployeeManagementSystemApp\EmployeeManagementSystemApp\obj\Release\EmployeeManagementSystemApp.Properties.Resources.resources
+G:\3rd Semester\Software Development\EmployeeManagementSystemApp\EmployeeManagementSystemApp\obj\Release\EmployeeManagementSystemApp.csproj.GenerateResource.Cache
+G:\3rd Semester\Software Development\EmployeeManagementSystemApp\EmployeeManagementSystemApp\obj\Release\EmployeeManagementSystemApp.exe
+G:\3rd Semester\Software Development\EmployeeManagementSystemApp\EmployeeManagementSystemApp\obj\Release\EmployeeManagementSystemApp.pdb
